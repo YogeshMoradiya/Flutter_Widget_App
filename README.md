@@ -4,14 +4,20 @@
 
 🌟 Features
 ✅ 100+ Custom Widgets
+
 ✅ Well-Structured & Optimized Code
+
 ✅ Responsive & Adaptive UI
+
 ✅ Smooth Animations & Transitions
 
 📚 What You’ll Learn
 ✔ How to create and use stateless & stateful widgets.
+
 ✔ How to build responsive UI.
+
 ✔ How to use buttons, cards, text fields, lists, and more.
+
 ✔ How to implement basic animations in Flutter..
 
 flutter run
