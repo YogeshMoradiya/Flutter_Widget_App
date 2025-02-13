@@ -22,6 +22,9 @@
 
 ✔ How to implement basic animations in Flutter..
 
+📷 Screenshots
+
+
 flutter run
 🚀 Why Use This?
 Open Source & Community Driven: Contributions welcome!
