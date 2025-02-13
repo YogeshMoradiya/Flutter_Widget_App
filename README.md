@@ -3,6 +3,7 @@
 🚀 A beautifully designed Flutter app featuring a collection of custom, reusable widgets to speed up your app development for bigginer level.
 
 🌟 Features
+
 ✅ 100+ Custom Widgets
 
 ✅ Well-Structured & Optimized Code
@@ -12,6 +13,7 @@
 ✅ Smooth Animations & Transitions
 
 📚 What You’ll Learn
+
 ✔ How to create and use stateless & stateful widgets.
 
 ✔ How to build responsive UI.
