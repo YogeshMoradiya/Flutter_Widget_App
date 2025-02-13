@@ -42,4 +42,3 @@ flutter run
 Open Source & Community Driven: Contributions welcome!
 
 ⭐ Star this repo to support the project!
-This description is keyword-rich to improve searchability. Let me know if you want tweaks based on your widget types! 🚀
