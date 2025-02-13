@@ -35,10 +35,8 @@
 ![WhatsApp Image 2025-02-13 at 8 41 04 PM](https://github.com/user-attachments/assets/9700d9d3-f0f6-4811-8abe-8c863ba2c856)
 
 
-
-
-flutter run
 🚀 Why Use This?
+
 Open Source & Community Driven: Contributions welcome!
 
 ⭐ Star this repo to support the project!
